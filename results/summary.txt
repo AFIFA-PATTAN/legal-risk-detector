@@ -1,0 +1,20 @@
+
+================================================================================
+LEGAL RISK DETECTION - RESULTS SUMMARY
+================================================================================
+
+DATASET INFORMATION:
+  - Total samples: 100
+  - Training samples: 80
+  - Test samples: 20
+
+BASELINE MODEL PERFORMANCE (TF-IDF + Logistic Regression):
+  - Accuracy:  0.9500
+  - Precision: 0.9091
+  - Recall:    1.0000
+  - F1-Score:  0.9524
+
+OUTPUT FILES:
+  - Baseline model: results/baseline_model.pkl
+  - Explainability report: results/explainability_report.txt
+================================================================================

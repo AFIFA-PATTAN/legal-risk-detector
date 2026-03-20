@@ -1,0 +1,7 @@
+SHAP Explainability for one test example
+Text: customer must accept all risk of delays absent any contractor fault
+Prediction: 1
+Probability: 0.6157
+Top words (word, shap importance):
+  - accept: 0.0798
+  - customer: 0.0228
